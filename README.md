@@ -10,6 +10,6 @@ Personal dotfiles and configuration for Caelestia Shell.
 - git
 
 ## Installation
-``bash``
+ bash
 `git clone git@github.com:bennyzxp/viskerons-caelestia-dots.git ~/.config/caelestia`
 
