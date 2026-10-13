@@ -1,0 +1,92 @@
+{
+    "appearance": {
+        "transparency": {
+            "enabled": true
+        }
+    },
+    "background": {
+        "wallpaperEnabled": true
+    },
+    "bar": {
+        "activeWindow": {
+            "compact": true,
+            "inverted": true
+        },
+        "clock": {
+            "background": false,
+            "showDate": true,
+            "showIcon": false
+        },
+        "dragThreshold": 200,
+        "persistent": true,
+        "popouts": {
+            "tray": true
+        },
+        "scrollActions": {
+            "volume": true,
+            "workspaces": true
+        },
+        "status": {
+            "showAudio": true,
+            "showBattery": true,
+            "showBluetooth": true,
+            "showLockStatus": false,
+            "showMicrophone": false,
+            "showNetwork": true,
+            "showWifi": true
+        },
+        "statusIcons": [
+            {
+                "enabled": true,
+                "id": "lockStatus"
+            },
+            {
+                "enabled": false,
+                "id": "audio"
+            },
+            {
+                "enabled": false,
+                "id": "microphone"
+            },
+            {
+                "enabled": false,
+                "id": "kbLayout"
+            },
+            {
+                "enabled": true,
+                "id": "network"
+            },
+            {
+                "enabled": true,
+                "id": "bluetooth"
+            },
+            {
+                "enabled": true,
+                "id": "battery"
+            }
+        ],
+        "workspaces": {
+            "activeIndicator": true,
+            "occupiedBg": false,
+            "showWindows": true
+        }
+    },
+    "dashboard": {
+        "dragThreshold": 200,
+        "showOnHover": true
+    },
+    "launcher": {
+        "showOnHover": false
+    },
+    "paths": {
+        "mediaGif": "/home/visk/Pictures/124.png",
+        "sessionGif": "/home/visk/Pictures/rtx-on-wuwa-ezgif.com-resize.gif"
+    },
+    "services": {
+        "maxVolume": 2
+    },
+    "sidebar": {
+        "dragThreshold": 200,
+        "enabled": true
+    }
+}
